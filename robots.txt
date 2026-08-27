@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /referral-thank-you
+
+Sitemap: https://referral.dawsonsawyer.ca/sitemap.xml
